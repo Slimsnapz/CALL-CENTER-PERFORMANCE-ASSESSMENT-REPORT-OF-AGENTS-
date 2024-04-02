@@ -4,3 +4,9 @@
 2. TOOLS USED:
 3. Microsoft PowetBI
 4. Microsoft Excel 
+
+
+
+
+
+https://github.com/anantoj/telkom-stocks-analysis/blob/main/web_scraping/web_scrape.py
